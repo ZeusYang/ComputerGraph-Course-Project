@@ -1,0 +1,16 @@
+﻿  SceneController.cpp
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\packages\freetype.2.8.0.1\build\native\include\freetype/config/ftheader.h(173): warning C4005: “FT_FREETYPE_H”: 宏重定义
+  c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\font.h(7): note: 参见“FT_FREETYPE_H”的前一个定义
+SceneController.cpp(113): warning C4244: “参数”: 从“const GLfloat”转换到“GLsizei”，可能丢失数据
+SceneController.cpp(131): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(139): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(177): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(182): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  3 of 2374 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SceneDemo.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\Release\SceneDemo.exe
+  SceneDemo.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\Release\SceneDemo.pdb (Full PDB)

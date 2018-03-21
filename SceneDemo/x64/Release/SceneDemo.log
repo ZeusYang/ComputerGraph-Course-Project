@@ -1,0 +1,100 @@
+﻿  AnimationModel.cpp
+AnimationModel.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(267): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AnimationModel.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AnimationModel.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(273): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AnimationModel.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AnimationModel.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(290): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AnimationModel.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+AnimationModel.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+  Font.cpp
+C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\packages\freetype.2.8.0.1\build\native\include\freetype/config/ftheader.h(173): warning C4005: “FT_FREETYPE_H”: 宏重定义
+  c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Font.h(7): note: 参见“FT_FREETYPE_H”的前一个定义
+  FractalTreeSystem.cpp
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(19): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(87): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(88): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(110): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(130): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(131): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(132): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(133): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(134): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(177): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(350): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(369): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(373): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(377): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(381): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(385): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(389): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(394): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(395): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(419): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(462): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+FractalTreeSystem.cpp(468): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(475): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+FractalTreeSystem.cpp(489): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SceneController.cpp
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(19): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\packages\freetype.2.8.0.1\build\native\include\freetype/config/ftheader.h(173): warning C4005: “FT_FREETYPE_H”: 宏重定义
+  c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\font.h(7): note: 参见“FT_FREETYPE_H”的前一个定义
+SceneController.cpp(107): warning C4244: “参数”: 从“const GLfloat”转换到“GLsizei”，可能丢失数据
+SceneController.cpp(125): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(133): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(163): warning C4305: “参数”: 从“double”到“float”截断
+SceneController.cpp(168): warning C4305: “参数”: 从“double”到“float”截断
+  Snow.cpp
+Snow.cpp(189): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+Snow.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+Snow.cpp(209): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  common.cpp
+  flame.cpp
+flame.cpp(214): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+flame.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+flame.cpp(234): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+flame.cpp(257): warning C4305: “*=”: 从“double”到“float”截断
+  floor.cpp
+  fountain.cpp
+fountain.cpp(192): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+fountain.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+fountain.cpp(211): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(19): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\Geometry.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\packages\freetype.2.8.0.1\build\native\include\freetype/config/ftheader.h(173): warning C4005: “FT_FREETYPE_H”: 宏重定义
+  c:\users\yang\desktop\opengl-demo\scenedemo\scenedemo\font.h(7): note: 参见“FT_FREETYPE_H”的前一个定义
+main.cpp(39): warning C4244: “参数”: 从“const GLfloat”转换到“int”，可能丢失数据
+main.cpp(56): warning C4244: “参数”: 从“const GLfloat”转换到“GLsizei”，可能丢失数据
+main.cpp(75): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+main.cpp(77): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(80): warning C4244: “-=”: 从“GLfloat”转换到“int”，可能丢失数据
+main.cpp(122): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(123): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(126): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(127): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(128): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(129): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(134): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  skybox.cpp
+  正在生成代码
+  105 of 2267 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SceneDemo.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\x64\Release\SceneDemo.exe
+  SceneDemo.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\SceneDemo\x64\Release\SceneDemo.pdb (Full PDB)

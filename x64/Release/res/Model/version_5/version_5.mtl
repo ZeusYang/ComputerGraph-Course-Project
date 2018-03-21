@@ -1,0 +1,380 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.12.2017 18:49:55
+
+newmtl Material__265
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_deco05(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_deco05(Texture)_0.bmp
+
+newmtl Material__270
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_floor01(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_floor01(Texture)_0.bmp
+
+newmtl Material__282
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+
+newmtl Material__183
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_deco02(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_deco02(Texture)_0.bmp
+
+newmtl Material__184
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_roof02(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_roof02(Texture)_0.bmp
+
+newmtl Material__185
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06b(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06b(Texture)_0.bmp
+
+newmtl Material__186
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall04_deco(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall04_deco(Texture)_0.bmp
+
+newmtl Material__188
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_deco02(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_deco02(Texture)_0.bmp
+
+newmtl Material__189
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+
+newmtl Material__271
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_arch(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_arch(Texture)_0.bmp
+
+newmtl Material__275
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall13_deco03(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall13_deco03(Texture)_0.bmp
+
+newmtl Material__581
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall03(Texture)_0.bmp
+
+newmtl Material__272
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_deco10(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_deco10(Texture)_0.bmp
+
+newmtl Material__274
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_deco01(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_deco01(Texture)_0.bmp
+
+newmtl Material__276
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_win(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_win(Texture)_0.bmp
+
+newmtl Material__277
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06(Texture)_0.bmp
+
+newmtl Material__278
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06a(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06a(Texture)_0.bmp
+
+newmtl Material__279
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_door(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_door(Texture)_0.bmp
+
+newmtl Material__281
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_pilla02(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_pilla02(Texture)_0.bmp
+
+newmtl Material__283
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall06_deco(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall06_deco(Texture)_0.bmp
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps/grayWood.jpg
+	map_Kd maps/grayWood.jpg
+
+newmtl Material__280
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_door(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_door(Texture)_0.bmp
+
+newmtl Material__273
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5880 0.5880 0.5880
+	map_Ka maps/giran_village_t.clear.utx-Giran_wall04_deco02(Texture)_0.bmp
+	map_Kd maps/giran_village_t.clear.utx-Giran_wall04_deco02(Texture)_0.bmp
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps/pic__2_Composite.tga
+	map_Kd maps/pic__2_Composite.tga
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps/glass-2728574_960_720.jpg
+	map_Kd maps/glass-2728574_960_720.jpg
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps/floor.jpg
+	map_Kd maps/floor.jpg
+
+newmtl 06___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps/floor_Composite.tga
+	map_Kd maps/floor_Composite.tga
